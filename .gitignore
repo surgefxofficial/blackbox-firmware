@@ -1,0 +1,6 @@
+src/BlackBoxESP32S3/build/
+*.elf
+*.map
+*.merged.bin
+*.bootloader.bin
+*.partitions.bin
